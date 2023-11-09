@@ -1,0 +1,10 @@
+In the exam of 2020, exercises 1 and 4 account for lots of points (6 and 5), and there was no lecture-related questions, since it was an "open book" exam.
+
+These exercises will be reduced in importance in 2021:
+- the exercise of the style of ex. 1 "Analysis of experimental results" will probably account for less points.
+- the exercise of the style of ex. 4, "Identifying the task, the appropriate classes of algos, and data structures/features" will be suppressed entirely.
+
+And there will be some points on lecture-related questions ("knowledge questions").
+
+The exam of 2021 will probably be a bit shorter than the 2020's version.
+
